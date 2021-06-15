@@ -14,7 +14,12 @@ The students who have difficulties in learning activities because they do not ha
 * Convert model from python to json
 
 **Cloud**
-*
+* PostgreSQL database instance at gcp
+* Creating a custom vm flask
+* Creating BackEnd-Instance
+* Creating Route for Login
+* Deployment Machine Learning
+
 
 **Android Development**
 * Create Android User Flow
